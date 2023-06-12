@@ -1,0 +1,434 @@
+------------------
+System Information
+------------------
+Serial Number:                9S716R4121226ZKB000126 / K2011N0120302
+Product Name:                 GF63 Thin 10SCSR
+OS:                           Microsoft Windows 10 Home 64-bit Ver.2009(OS build 19042.844)
+Windows Product Key:          VQWVD
+HDI Build:                    non-OEM
+BIOS Version:                 E16R4IMS.10A
+BIOS Release Date:            2020/11/19
+EC Version:                   16R4EMS1.1020912202014:49:14
+CPU:                          Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+Memory:                       16 GB @ 1333 MHz
+                               - 16 GB, DDR4-2667, Samsung M471A2K43EB1-CTD    
+Graphics:                     NVIDIA GeForce GTX 1650 Ti with Max-Q Design, 4096 MB
+Graphics:                     Intel(R) UHD Graphics, 1024 MB
+VBIOS Version:                90.17.41.00.2f
+Drive:                        SSD, KINGSTON SUV400S37480G, 447.13 GB
+Drive:                        SSD, KINGSTON OM8PCP3512F-AI1, 476.94 GB
+Network:                      Intel(R) Wi-Fi 6 AX201 160MHz
+Network:                      Realtek PCIe GbE Family Controller
+Win32 SHIFT mode:             Unsupportive
+Power Plan:                   Power Scheme GUID: 381b4222-f694-41f0-9685-ff5bb260df2e  (Balanced)
+UWP User Scenario:            Balanced, Performance: Medium, Fan: Auto
+Graphic Switch:               Unsupportive
+
+---------------------
+Programs and Features
+---------------------
+MSI NBFoundation Service                                                                                   , 1.0.2101.2001             , 2021-02-27
+MSI SDK                                                                                                    , 2.2021.0201.01            , 2021-02-27
+NVIDIA FrameView SDK 1.1.4923.29548709                                                                     , 1.1.4923.29548709         , 2021-02-27
+NVIDIA GeForce Experience 3.21.0.36                                                                        , 3.21.0.36                 , 2021-02-27
+NVIDIA Graphics Driver 461.72                                                                              , 461.72                    , 2021-02-27
+NVIDIA PhysX System Software 9.19.0218                                                                     , 9.19.0218                 , 2021-02-27
+Genshin Impact                                                                                             , 2.6.1.0                   , 1970-01-01
+IIS 10.0 Express                                                                                           , 10.0.04403                , 2021-02-28
+Kingston SSD Manager version 1.1.2.6                                                                       , 1.1.2.6                   , 2021-03-04
+Microsoft .NET SDK 5.0.103 (x64) from Visual Studio                                                        , 5.1.321.7308              , 2021-02-28
+Microsoft Azure Authoring Tools - v2.9.6                                                                   , 2.9.8899.26               , 2021-02-28
+Microsoft Azure Compute Emulator - v2.9.6                                                                  , 2.9.8899.26               , 2021-02-28
+Microsoft Azure Libraries for .NET – v2.9                                                                 , 3.0.0127.060              , 2021-02-28
+Microsoft Azure Storage Emulator - v5.10                                                                   , 5.10.19227.2113           , 2021-02-28
+Microsoft Edge                                                                                             , 88.0.705.81               , 2021-02-28
+Microsoft Edge Update                                                                                      , 1.3.141.59                , 
+Microsoft ODBC Driver 17 for SQL Server                                                                    , 17.2.0.1                  , 2021-02-28
+Microsoft SQL Server 2016 LocalDB                                                                          , 13.1.4001.0               , 2021-02-28
+Microsoft System CLR Types for SQL Server 2019 CTP2.2                                                      , 15.0.1200.24              , 2021-02-28
+Microsoft Update Health Tools                                                                              , 2.75.0.0                  , 2021-02-27
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501                                               , 12.0.30501.0              , 2021-03-04
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501                                               , 12.0.30501.0              , 2021-03-04
+Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.22.27821                                         , 14.22.27821.0             , 2021-03-04
+Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.22.27821                                         , 14.22.27821.0             , 2021-03-04
+Microsoft Visual Studio Installer                                                                          , 2.8.3077.1211             , 2021-02-28
+Microsoft Web Deploy 4.0                                                                                   , 10.0.3802                 , 2021-02-28
+Razer Synapse                                                                                              , 3.6.0228.021813           , 2021-03-04
+Visual Studio Community 2019                                                                               , 16.8.31019.35             , 2021-02-28
+
+---------------------
+Device Manager Info
+---------------------
+Audio inputs and outputs
+  Microphone (Realtek(R) Audio)                                                                            , 10.0.19041.1              , 2019-12-07
+  Speakers (Realtek(R) Audio)                                                                              , 10.0.19041.1              , 2019-12-07
+BATTERY
+  Microsoft AC Adapter                                                                                     , 10.0.19041.1              , 2019-12-07
+  Microsoft ACPI-Compliant Control Method Battery                                                          , 10.0.19041.1              , 2019-12-07
+BLUETOOTH
+  Intel(R) Wireless Bluetooth(R)                                                                           , 22.0.0.2                  , 2021-02-28
+COMPUTER
+  ACPI x64-based PC                                                                                        , 10.0.19041.1              , 2019-12-07
+DISKDRIVE
+  KINGSTON SUV400S37480G                                                                                   , 10.0.19041.789            , 2021-02-27
+  KINGSTON OM8PCP3512F-AI1                                                                                 , 10.0.19041.789            , 2021-02-27
+Display adapters
+  Intel(R) UHD Graphics                                                                                    , 27.20.100.8190            , 2021-02-28
+  NVIDIA GeForce GTX 1650 Ti with Max-Q Design                                                             , 27.21.14.6172             , 2021-02-28
+FIRMWARE
+  Device Firmware                                                                                          , 10.0.19041.1              , 2019-12-07
+  MS-16R4 SBIOS Ver.10A                                                                                    , 1.0.0.10                  , 2021-02-28
+HIDCLASS
+  HID-compliant touch pad                                                                                  , 10.0.19041.1              , 2019-12-07
+  HID-compliant wireless radio controls                                                                    , 10.0.19041.1              , 2019-12-07
+  HID-compliant device                                                                                     , 10.0.19041.1              , 2019-12-07
+  HID-compliant consumer control device                                                                    , 10.0.15063.0              , 2021-02-28
+  HID-compliant device                                                                                     , 10.0.19041.1              , 2019-12-07
+  HID-compliant system controller                                                                          , 10.0.19041.1              , 2019-12-07
+  HID-compliant consumer control device                                                                    , 10.0.19041.1              , 2019-12-07
+  Razer Mamba Wireless                                                                                     , 10.0.15063.0              , 2021-02-28
+  Razer Mamba Wireless                                                                                     , 10.0.15063.0              , 2021-02-28
+  HID Button over Interrupt Driver                                                                         , 10.0.19041.1              , 2019-12-07
+  HID-compliant consumer control device                                                                    , 10.0.19041.1              , 2019-12-07
+  Microsoft Input Configuration Device                                                                     , 10.0.19041.1              , 2019-12-07
+  Razer Mamba Wireless                                                                                     , 6.2.9200.16485            , 2021-02-28
+  HID-compliant vendor-defined device                                                                      , 10.0.19041.1              , 2019-12-07
+  I2C HID Device                                                                                           , 10.0.19041.1              , 2019-12-07
+IDE ATA/ATAPI controllers
+  Standard SATA AHCI Controller                                                                            , 10.0.19041.488            , 2020-11-19
+KEYBOARD
+  Standard PS/2 Keyboard                                                                                   , 10.0.19041.1              , 2019-12-07
+  HID Keyboard Device                                                                                      , 10.0.19041.1              , 2019-12-07
+  Razer Mamba Wireless                                                                                     , 10.0.15063.0              , 2021-02-28
+MONITOR
+  Generic PnP Monitor                                                                                      , 10.0.19041.488            , 2020-11-19
+MOUSE
+  PS/2 Compatible Mouse                                                                                    , 10.0.19041.1              , 2019-12-07
+  Razer Mamba Wireless                                                                                     , 10.0.15063.0              , 2021-02-28
+  HID-compliant mouse                                                                                      , 10.0.19041.1              , 2019-12-07
+Network adapters
+  WAN Miniport (Network Monitor)                                                                           , 10.0.19041.1              , 2019-12-07
+  WAN Miniport (IPv6)                                                                                      , 10.0.19041.1              , 2019-12-07
+  WAN Miniport (IP)                                                                                        , 10.0.19041.1              , 2019-12-07
+  WAN Miniport (PPTP)                                                                                      , 10.0.19041.1              , 2019-12-07
+  Microsoft Kernel Debug Network Adapter                                                                   , 10.0.19041.1              , 2019-12-07
+  WAN Miniport (L2TP)                                                                                      , 10.0.19041.1              , 2019-12-07
+  WAN Miniport (IKEv2)                                                                                     , 10.0.19041.1              , 2019-12-07
+  WAN Miniport (SSTP)                                                                                      , 10.0.19041.1              , 2019-12-07
+  Realtek PCIe GbE Family Controller                                                                       , 10.42.526.2020            , 2021-02-27
+  Microsoft Wi-Fi Direct Virtual Adapter #2                                                                , 10.0.19041.1              , 2019-12-07
+  Microsoft Wi-Fi Direct Virtual Adapter                                                                   , 10.0.19041.1              , 2019-12-07
+  Intel(R) Wi-Fi 6 AX201 160MHz                                                                            , 22.0.0.6                  , 2021-02-27
+  WAN Miniport (PPPOE)                                                                                     , 10.0.19041.1              , 2019-12-07
+NVMODULETRACKER
+  NvModuleTracker Device                                                                                   , 6.14.24033.38719          , 2021-02-28
+PRINTQUEUE
+  OneNote for Windows 10                                                                                   , 10.0.19041.1              , 2019-12-07
+  Fax                                                                                                      , 10.0.19041.1              , 2019-12-07
+  Microsoft Print to PDF                                                                                   , 10.0.19041.1              , 2019-12-07
+  Microsoft XPS Document Writer                                                                            , 10.0.19041.1              , 2019-12-07
+  Root Print Queue                                                                                         , 10.0.19041.1              , 2019-12-07
+PROCESSOR
+  Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz                                                                , 10.0.19041.546            , 2020-11-19
+  Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz                                                                , 10.0.19041.546            , 2020-11-19
+  Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz                                                                , 10.0.19041.546            , 2020-11-19
+  Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz                                                                , 10.0.19041.546            , 2020-11-19
+  Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz                                                                , 10.0.19041.546            , 2020-11-19
+  Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz                                                                , 10.0.19041.546            , 2020-11-19
+  Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz                                                                , 10.0.19041.546            , 2020-11-19
+  Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz                                                                , 10.0.19041.546            , 2020-11-19
+  Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz                                                                , 10.0.19041.546            , 2020-11-19
+  Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz                                                                , 10.0.19041.546            , 2020-11-19
+  Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz                                                                , 10.0.19041.546            , 2020-11-19
+  Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz                                                                , 10.0.19041.546            , 2020-11-19
+RAZER DEVICE
+  Razer Control Device                                                                                     , 10.0.15063.0              , 2021-02-28
+Security devices
+  Trusted Platform Module 2.0                                                                              , 10.0.19041.746            , 2021-02-27
+Software components
+  Realtek Audio Universal Service                                                                          , 1.0.0.315                 , 2021-02-28
+  Realtek Hardware Support Application                                                                     , 11.0.6000.238             , 2021-02-28
+  Realtek Audio Effects Component                                                                          , 10.0.19041.1              , 2019-12-07
+  Intel(R) Graphics Control Panel                                                                          , 27.20.100.8190            , 2021-02-28
+  Intel(R) Dynamic Application Loader Host Interface                                                       , 1.38.2020.805             , 2021-02-28
+  Intel(R) iCLS Client                                                                                     , 1.61.251.0                , 2021-02-28
+  Generic software component                                                                               , 10.0.19041.1              , 2019-12-07
+  Intel(R) Graphics Command Center                                                                         , 27.20.100.8190            , 2021-02-28
+  A-Volute Nh3 Audio Effects Component                                                                     , 3.2.2.0                   , 2021-02-28
+SOFTWAREDEVICE
+  Microsoft Device Association Root Enumerator                                                             , 10.0.19041.1              , 2019-12-07
+  Microsoft RRAS Root Enumerator                                                                           , 10.0.19041.1              , 2019-12-07
+  Microsoft GS Wavetable Synth                                                                             , 10.0.19041.1              , 2019-12-07
+  Wi-Fi                                                                                                    , 10.0.19041.1              , 2019-12-07
+  Bluetooth                                                                                                , 10.0.19041.1              , 2019-12-07
+  Microsoft Radio Device Enumeration Bus                                                                   , 10.0.19041.1              , 2019-12-07
+Sound, video and game controllers
+  Nahimic mirroring device                                                                                 , 8.51.48.758               , 2021-02-28
+  Intel(R) Display Audio                                                                                   , 10.27.0.9                 , 2021-02-28
+  Realtek(R) Audio                                                                                         , 6.0.8991.1                , 2021-02-28
+  NVIDIA Virtual Audio Device (Wave Extensible) (WDM)                                                      , 4.13.0.0                  , 2021-02-28
+Storage controllers
+  Microsoft Storage Spaces Controller                                                                      , 10.0.19041.844            , 2021-03-04
+  Standard NVM Express Controller                                                                          , 10.0.19041.844            , 2021-03-04
+SYSTEM
+  Intel(R) Shared SRAM - 06EF                                                                              , 10.1.31.2                 , 2021-02-28
+  Intel(R) Host Bridge/DRAM Registers - 9B54                                                               , 10.1.30.3                 , 2021-02-27
+  PCI Express Root Complex                                                                                 , 10.0.19041.662            , 2021-02-27
+  Microsoft ACPI-Compliant System                                                                          , 10.0.19041.488            , 2020-11-19
+  Intel(R) Thermal Subsystem - 06F9                                                                        , 10.1.31.2                 , 2021-02-28
+  Charge Arbitration Driver                                                                                , 10.0.19041.1              , 2019-12-07
+  Microsoft Hyper-V Virtualization Infrastructure Driver                                                   , 10.0.19041.746            , 2021-02-27
+  UMBus Root Bus Enumerator                                                                                , 10.0.19041.1              , 2019-12-07
+  Intel(R) Serial IO I2C Host Controller - 06EA                                                            , 30.100.2020.7             , 2021-02-27
+  Intel(R) Serial IO I2C Host Controller - 06E8                                                            , 30.100.2020.7             , 2021-02-27
+  Microsoft Virtual Drive Enumerator                                                                       , 10.0.19041.1              , 2019-12-07
+  Intel(R) PCIe Controller (x16) - 1901                                                                    , 10.1.7.3                  , 2021-02-27
+  Composite Bus Enumerator                                                                                 , 10.0.19041.1              , 2019-12-07
+  Microsoft Windows Management Interface for ACPI                                                          , 10.0.19041.1              , 2019-12-07
+  Intel(R) PCI Express Root Port #9 - 06B0                                                                 , 10.1.31.2                 , 2021-02-28
+  Microsoft Windows Management Interface for ACPI                                                          , 10.0.19041.1              , 2019-12-07
+  Motherboard resources                                                                                    , 10.0.19041.1              , 2019-12-07
+  ACPI Sleep Button                                                                                        , 10.0.19041.1              , 2019-12-07
+  ACPI Processor Aggregator                                                                                , 10.0.19041.1              , 2019-12-07
+  Microsoft Windows Management Interface for ACPI                                                          , 10.0.19041.1              , 2019-12-07
+  Microsoft Windows Management Interface for ACPI                                                          , 10.0.19041.1              , 2019-12-07
+  Intel(R) Power Engine Plug-in                                                                            , 10.0.19041.662            , 2021-02-27
+  ACPI Power Button                                                                                        , 10.0.19041.1              , 2019-12-07
+  ACPI Thermal Zone                                                                                        , 10.0.19041.1              , 2019-12-07
+  ACPI Fixed Feature Button                                                                                , 10.0.19041.1              , 2019-12-07
+  Microsoft UEFI-Compliant System                                                                          , 10.0.19041.1              , 2019-12-07
+  Microsoft Basic Render Driver                                                                            , 10.0.19041.84             , 2020-11-19
+  NVVHCI Enumerator                                                                                        , 3.4.2785.9920             , 2021-02-28
+  NDIS Virtual Network Adapter Enumerator                                                                  , 10.0.19041.1              , 2019-12-07
+  Microsoft System Management BIOS Driver                                                                  , 10.0.19041.1              , 2019-12-07
+  Plug and Play Software Device Enumerator                                                                 , 10.0.19041.1              , 2019-12-07
+  Remote Desktop Device Redirector Bus                                                                     , 10.0.19041.1              , 2019-12-07
+  Microsoft Windows Management Interface for ACPI                                                          , 10.0.19041.1              , 2019-12-07
+  Intel(R) Management Engine Interface                                                                     , 2021.14.0.1615            , 2021-02-28
+  Volume Manager                                                                                           , 10.0.19041.572            , 2020-11-19
+  Intel(R) Serial IO GPIO Host Controller - INT3450                                                        , 30.100.2020.7             , 2021-02-27
+  Intel(R) PCI Express Root Port #13 - 06B4                                                                , 10.1.31.2                 , 2021-02-28
+  Intel(R) LPC Controller (HM470) - 068D                                                                   , 10.1.31.2                 , 2021-02-28
+  High precision event timer                                                                               , 10.0.19041.1              , 2019-12-07
+  Programmable interrupt controller                                                                        , 10.0.19041.1              , 2019-12-07
+  Numeric data processor                                                                                   , 10.0.19041.1              , 2019-12-07
+  Motherboard resources                                                                                    , 10.0.19041.1              , 2019-12-07
+  System CMOS/real time clock                                                                              , 10.0.19041.1              , 2019-12-07
+  System timer                                                                                             , 10.0.19041.1              , 2019-12-07
+  Intel(R) Watchdog Timer Driver (Intel(R) WDT)                                                            , 11.7.0.1000               , 2021-02-28
+  Motherboard resources                                                                                    , 10.0.19041.1              , 2019-12-07
+  Microsoft ACPI-Compliant Embedded Controller                                                             , 10.0.19041.1              , 2019-12-07
+  Microsoft Basic Display Driver                                                                           , 10.0.19041.1              , 2019-12-07
+  High Definition Audio Controller                                                                         , 10.0.19041.1              , 2019-12-07
+  Intel(R) SMBus - 06A3                                                                                    , 10.1.31.2                 , 2021-02-28
+  Intel(R) SPI (flash) Controller - 06A4                                                                   , 10.1.31.2                 , 2021-02-28
+  Motherboard resources                                                                                    , 10.0.19041.1              , 2019-12-07
+  Motherboard resources                                                                                    , 10.0.19041.1              , 2019-12-07
+  Motherboard resources                                                                                    , 10.0.19041.1              , 2019-12-07
+  ACPI Lid                                                                                                 , 10.0.19041.1              , 2019-12-07
+USB controllers
+  Intel(R) USB 3.1 eXtensible Host Controller - 1.10 (Microsoft)                                           , 10.0.19041.662            , 2021-02-27
+  USB Root Hub (USB 3.0)                                                                                   , 10.0.19041.264            , 2020-11-19
+  USB Composite Device                                                                                     , 10.0.19041.488            , 2020-11-19
+
+---------------------
+Windows Hotfix
+---------------------
+KB4601554                                                                                                  , Update               , 20210303
+KB4562830                                                                                                  , Update               , 20210227
+KB4570334                                                                                                  , Security Update      , 20201118
+KB4577586                                                                                                  , Update               , 20210227
+KB4580325                                                                                                  , Security Update      , 20201119
+KB4586864                                                                                                  , Security Update      , 20201119
+KB4598481                                                                                                  , Security Update      , 20210227
+KB4601382                                                                                                  , Update               , 20210303
+KB5000911                                                                                                  , Security Update      , 20210228
+
+---------------------
+Windows Hotfix History
+---------------------
+2021-03-04 11:00:55 AM Succeeded Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version1.331.2325.0)
+2021-03-04 5:29:54 AM  Succeeded Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version1.331.2309.0)
+2021-03-03 10:49:55 PM Succeeded 2021-02 Cumulative Update Preview for .NET Framework 3.5 and 4.8 for Windows 10,version 20H2 for x64 (KB4601554)
+2021-03-03 10:35:21 PM 1         2021-02 Cumulative Update Preview for Windows 10 Version 20H2 for x64-based Systems(KB4601382)
+2021-03-03 10:19:49 PM Succeeded Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version1.331.2277.0)
+2021-03-03 6:56:29 PM  Succeeded Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version1.331.2275.0)
+2021-03-02 7:51:07 PM  Succeeded Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version1.331.2194.0)
+2021-03-01 6:56:13 PM  Succeeded Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version1.331.2114.0)
+2021-02-28 9:04:44 PM  1         2021-02 Cumulative Update Preview for Windows 10 Version 20H2 for x64-based Systems(KB4601382)
+2021-02-28 9:03:55 PM  Succeeded Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version1.331.2051.0)
+2021-02-28 8:50:54 PM  Failed    2021-02 Cumulative Update Preview for Windows 10 Version 20H2 for x64-based Systems(KB4601382)
+2021-02-28 8:50:19 PM  Succeeded Micro-Star International Co., Ltd. - Firmware - 1.0.0.10
+2021-02-28 8:50:14 PM  Succeeded Intel - System - 9/19/2017 12:00:00 AM - 11.7.0.1000
+2021-02-28 8:49:42 PM  Failed    Update for Windows Defender Antivirus antimalware platform - KB4052623 (Version4.18.2001.10)
+2021-02-28 7:48:39 PM  Succeeded Razer Inc - HIDClass - 6.2.9200.16485
+2021-02-28 5:39:05 PM  Succeeded Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version1.331.2039.0)
+2021-02-28 5:38:59 PM  Succeeded Update for Microsoft Defender Antivirus antimalware platform - KB4052623 (Version4.18.2101.9)
+2021-02-28 12:26:40 PM Succeeded 9P2B8MCSVPLN-RealtekSemiconductorCorp.RealtekAudioControl
+2021-02-28 12:26:18 PM Succeeded Nahimic - MEDIA - 8.51.48.758
+2021-02-28 12:26:16 PM Succeeded Realtek - SoftwareComponent - 1.0.0.315
+2021-02-28 12:26:15 PM Succeeded Intel - SoftwareComponent - 1.61.251.0
+2021-02-28 12:26:02 PM Succeeded A-Volute - SoftwareComponent - 3.2.2.0
+2021-02-28 12:25:56 PM Succeeded Intel - SoftwareComponent - 1.38.2020.805
+2021-02-28 12:25:54 PM Succeeded Realtek - SoftwareComponent - 11.0.6000.238
+2021-02-28 12:25:52 PM Succeeded 9NBLGGH3FRZM-Microsoft.VCLibs.140.00
+2021-02-28 12:25:52 PM Succeeded 9PLFNLNT3G5G-AppUp.IntelGraphicsExperience
+2021-02-28 12:25:52 PM Succeeded 9MW2LKJ0TPJF-Microsoft.NET.Native.Framework.2.2
+2021-02-28 12:25:51 PM Succeeded 9PLL735RFDSM-Microsoft.NET.Native.Runtime.2.2
+2021-02-28 12:24:54 PM Succeeded Realtek Semiconductor Corp. - Extension - 6.0.8991.1
+2021-02-28 12:24:53 PM Succeeded Realtek Semiconductor Corp. - MEDIA - 6.0.8991.1
+2021-02-28 12:24:50 PM Succeeded A-Volute - Extension - 1.1.32.62690
+2021-02-28 12:24:31 PM Succeeded Intel Corporation - Display - 27.20.100.8190
+2021-02-28 12:24:02 PM Succeeded Intel Corporation - Extension - 26.20.100.7642
+2021-02-28 12:20:33 PM Succeeded INTEL - System - 10.1.31.2
+2021-02-28 12:20:32 PM Succeeded INTEL - System - 10.1.31.2
+2021-02-28 12:20:26 PM Succeeded Intel - System - 2021.14.0.1615
+2021-02-28 12:20:24 PM Succeeded Intel Corporation - Bluetooth - 22.0.0.2
+2021-02-27 10:13:49 PM Succeeded 2021-02 Cumulative Update for Windows 10 Version 20H2 for x64-based Systems(KB4601319)
+2021-02-27 9:48:05 PM  Succeeded 9NF8H0H7WMLT-NVIDIACorp.NVIDIAControlPanel
+2021-02-27 9:47:41 PM  Succeeded NVIDIA - Display - 27.21.14.5183
+2021-02-27 9:19:39 PM  1         2021-01 Update for Windows 10 Version 20H2 for x64-based Systems (KB4023057)
+2021-02-27 9:19:36 PM  1         2021-02 Cumulative Update for Windows 10 Version 20H2 for x64-based Systems(KB4601319)
+2021-02-27 9:12:22 PM  Succeeded Intel - net - 22.0.0.6
+2021-02-27 9:12:19 PM  Succeeded Realtek - Net - 10.42.526.2020
+2021-02-27 9:12:11 PM  Succeeded INTEL - System - 10.1.7.3
+2021-02-27 9:12:10 PM  Succeeded Intel Corporation - System - 30.100.2020.7
+2021-02-27 9:12:09 PM  Succeeded Intel Corporation - System - 30.100.2020.7
+2021-02-27 9:12:09 PM  Succeeded INTEL - System - 10.1.30.3
+2021-02-27 9:12:08 PM  Succeeded INTEL - System - 10.1.31.2
+2021-02-27 9:12:08 PM  Succeeded Update for Removal of Adobe Flash Player for Windows 10 Version 20H2 for x64-basedsystems (KB4577586)
+2021-02-27 9:12:07 PM  Succeeded 2021-02 Cumulative Update for .NET Framework 3.5 and 4.8 for Windows 10, version 20H2for x64 (KB4601050)
+2021-02-27 8:38:27 PM  Succeeded Windows Malicious Software Removal Tool x64 - v5.86 (KB890830)
+2021-02-27 8:32:27 PM  Succeeded Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version1.331.1970.0)
+
+-------------
+OS Activation
+-------------
+
+Name: Windows(R), Core edition
+Description: Windows(R) Operating System, OEM_DM channel
+Partial Product Key: VQWVD
+License Status: Licensed
+
+
+
+---------------------
+UWP
+---------------------
+1527c705-839a-4832-9118-54d4Bd6a0c89                                                 , 10.0.19041.423            , 2021-02-28
+9426MICRO-STARINTERNATION.DragonCenter                                               , 2.0.101.0                 , 2021-02-27
+AppUp.IntelGraphicsExperience                                                        , 1.100.3282.0              , 2021-02-28
+c5e2524a-ea46-4f67-841f-6a9465d9d515                                                 , 10.0.19041.423            , 2021-02-28
+DolbyLaboratories.DolbyAccess                                                        , 3.7.2016.0                , 2021-03-04
+E2A4F912-2574-4A75-9BB0-0D023378592B                                                 , 10.0.19041.423            , 2021-02-28
+F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE                                                 , 10.0.19041.423            , 2021-02-28
+Microsoft.549981C3F5F10                                                              , 2.2102.8653.0             , 2021-03-04
+Microsoft.AAD.BrokerPlugin                                                           , 1000.19041.423.0          , 2021-02-28
+Microsoft.AccountsControl                                                            , 10.0.19041.423            , 2021-02-28
+Microsoft.Advertising.Xaml                                                           , 10.1811.1.0               , 2021-02-28
+Microsoft.Advertising.Xaml                                                           , 10.1811.1.0               , 2021-02-28
+Microsoft.AsyncTextService                                                           , 10.0.19041.423            , 2021-02-28
+Microsoft.BingWeather                                                                , 4.46.23383.0              , 2021-02-27
+Microsoft.BioEnrollment                                                              , 10.0.19041.423            , 2021-02-28
+Microsoft.CredDialogHost                                                             , 10.0.19041.423            , 2021-02-28
+Microsoft.DesktopAppInstaller                                                        , 1.4.3161.0                , 2021-02-27
+Microsoft.ECApp                                                                      , 10.0.19041.423            , 2021-02-28
+Microsoft.GetHelp                                                                    , 10.2011.33361.0           , 2021-02-28
+Microsoft.Getstarted                                                                 , 9.13.33161.0              , 2021-02-27
+Microsoft.HEIFImageExtension                                                         , 1.0.40392.0               , 2021-02-28
+Microsoft.LanguageExperiencePacken-GB                                                , 19041.15.36.0             , 2021-02-28
+Microsoft.LockApp                                                                    , 10.0.19041.423            , 2021-02-28
+Microsoft.Microsoft3DViewer                                                          , 7.2010.15012.0            , 2021-02-27
+Microsoft.MicrosoftEdge                                                              , 44.19041.423.0            , 2021-02-28
+Microsoft.MicrosoftEdge.Stable                                                       , 88.0.705.81               , 2021-02-28
+Microsoft.MicrosoftEdgeDevToolsClient                                                , 1000.19041.423.0          , 2021-02-28
+Microsoft.MicrosoftOfficeHub                                                         , 18.2008.12711.0           , 2021-02-27
+Microsoft.MicrosoftSolitaireCollection                                               , 4.9.1252.0                , 2021-02-28
+Microsoft.MicrosoftStickyNotes                                                       , 3.8.8.0                   , 2021-02-28
+Microsoft.MixedReality.Portal                                                        , 2000.20111.1381.0         , 2021-02-27
+Microsoft.MSPaint                                                                    , 6.2009.30067.0            , 2021-02-27
+Microsoft.NET.Native.Framework.1.7                                                   , 1.7.27413.0               , 2021-02-27
+Microsoft.NET.Native.Framework.1.7                                                   , 1.7.27413.0               , 2021-02-27
+Microsoft.NET.Native.Framework.2.2                                                   , 2.2.29512.0               , 2021-02-28
+Microsoft.NET.Native.Framework.2.2                                                   , 2.2.29512.0               , 2021-02-28
+Microsoft.NET.Native.Runtime.1.7                                                     , 1.7.27422.0               , 2021-02-27
+Microsoft.NET.Native.Runtime.1.7                                                     , 1.7.27422.0               , 2021-02-27
+Microsoft.NET.Native.Runtime.2.2                                                     , 2.2.28604.0               , 2021-02-28
+Microsoft.NET.Native.Runtime.2.2                                                     , 2.2.28604.0               , 2021-02-28
+Microsoft.Office.OneNote                                                             , 16001.13801.20202.0       , 2021-03-04
+Microsoft.People                                                                     , 10.1909.12456.0           , 2021-02-28
+Microsoft.ScreenSketch                                                               , 10.2008.2277.0            , 2021-02-28
+Microsoft.Services.Store.Engagement                                                  , 10.0.19011.0              , 2021-02-28
+Microsoft.Services.Store.Engagement                                                  , 10.0.19011.0              , 2021-02-28
+Microsoft.SkypeApp                                                                   , 15.68.96.0                , 2021-02-28
+Microsoft.StorePurchaseApp                                                           , 12011.1001.1.0            , 2021-02-27
+Microsoft.UI.Xaml.2.0                                                                , 2.1810.18004.0            , 2021-02-28
+Microsoft.UI.Xaml.2.0                                                                , 2.1810.18004.0            , 2021-02-27
+Microsoft.UI.Xaml.2.1                                                                , 2.11906.6001.0            , 2021-02-27
+Microsoft.UI.Xaml.2.1                                                                , 2.11906.6001.0            , 2021-02-27
+Microsoft.UI.Xaml.2.3                                                                , 2.32002.13001.0           , 2021-02-27
+Microsoft.UI.Xaml.2.3                                                                , 2.32002.13001.0           , 2021-02-27
+Microsoft.UI.Xaml.2.4                                                                , 2.42007.9001.0            , 2021-02-27
+Microsoft.UI.Xaml.2.4                                                                , 2.42007.9001.0            , 2021-02-27
+Microsoft.UI.Xaml.2.5                                                                , 2.52012.2002.0            , 2021-02-28
+Microsoft.UI.Xaml.2.5                                                                , 2.52012.2002.0            , 2021-02-28
+Microsoft.VCLibs.140.00                                                              , 14.0.29231.0              , 2021-02-28
+Microsoft.VCLibs.140.00                                                              , 14.0.29231.0              , 2021-02-28
+Microsoft.VCLibs.140.00.UWPDesktop                                                   , 14.0.29231.0              , 2021-02-27
+Microsoft.VCLibs.140.00.UWPDesktop                                                   , 14.0.29231.0              , 2021-02-27
+Microsoft.VP9VideoExtensions                                                         , 1.0.32521.0               , 2021-02-27
+Microsoft.Wallet                                                                     , 2.4.18324.0               , 2021-02-28
+Microsoft.WebMediaExtensions                                                         , 1.0.33271.0               , 2021-02-27
+Microsoft.WebpImageExtension                                                         , 1.0.32731.0               , 2021-02-27
+Microsoft.Win32WebViewHost                                                           , 10.0.19041.423            , 2021-02-28
+Microsoft.Windows.Apprep.ChxApp                                                      , 1000.19041.423.0          , 2021-02-28
+Microsoft.Windows.CallingShellApp                                                    , 1000.19041.423.0          , 2021-02-28
+Microsoft.Windows.CapturePicker                                                      , 10.0.19041.423            , 2021-02-28
+Microsoft.Windows.CloudExperienceHost                                                , 10.0.19041.423            , 2021-02-28
+Microsoft.Windows.ContentDeliveryManager                                             , 10.0.19041.423            , 2021-02-28
+Microsoft.Windows.NarratorQuickStart                                                 , 10.0.19041.423            , 2021-02-28
+Microsoft.Windows.OOBENetworkCaptivePortal                                           , 10.0.19041.423            , 2021-02-28
+Microsoft.Windows.OOBENetworkConnectionFlow                                          , 10.0.19041.423            , 2021-02-28
+Microsoft.Windows.ParentalControls                                                   , 1000.19041.423.0          , 2021-02-28
+Microsoft.Windows.PeopleExperienceHost                                               , 10.0.19041.423            , 2021-02-28
+Microsoft.Windows.Photos                                                             , 2020.20110.11001.0        , 2021-02-28
+Microsoft.Windows.PinningConfirmationDialog                                          , 1000.19041.423.0          , 2021-02-28
+Microsoft.Windows.Search                                                             , 1.14.0.19041              , 2021-02-28
+Microsoft.Windows.SecHealthUI                                                        , 10.0.19041.423            , 2021-02-28
+Microsoft.Windows.ShellExperienceHost                                                , 10.0.19041.610            , 2021-02-28
+Microsoft.Windows.StartMenuExperienceHost                                            , 10.0.19041.610            , 2021-02-28
+Microsoft.Windows.XGpuEjectDialog                                                    , 10.0.19041.423            , 2021-02-28
+Microsoft.WindowsAlarms                                                              , 10.2101.28.0              , 2021-02-28
+Microsoft.WindowsCalculator                                                          , 10.2101.10.0              , 2021-02-28
+Microsoft.WindowsCamera                                                              , 2020.902.20.0             , 2021-02-27
+microsoft.windowscommunicationsapps                                                  , 16005.13426.20688.0       , 2021-02-28
+Microsoft.WindowsFeedbackHub                                                         , 1.2006.10051.0            , 2021-02-27
+Microsoft.WindowsMaps                                                                , 10.2101.9.0               , 2021-02-28
+Microsoft.WindowsSoundRecorder                                                       , 10.2101.28.0              , 2021-02-28
+Microsoft.WindowsStore                                                               , 12011.1001.1.0            , 2021-02-28
+Microsoft.Xbox.TCUI                                                                  , 1.24.10001.0              , 2021-02-27
+Microsoft.XboxApp                                                                    , 48.72.4001.0              , 2021-02-27
+Microsoft.XboxGameCallableUI                                                         , 1000.19041.423.0          , 2021-02-28
+Microsoft.XboxGameOverlay                                                            , 1.54.4001.0               , 2021-02-27
+Microsoft.XboxGamingOverlay                                                          , 5.521.2012.0              , 2021-02-28
+Microsoft.XboxIdentityProvider                                                       , 12.67.21001.0             , 2021-02-27
+Microsoft.XboxSpeechToTextOverlay                                                    , 1.21.13002.0              , 2021-02-27
+Microsoft.YourPhone                                                                  , 1.21021.115.0             , 2021-03-04
+Microsoft.ZuneMusic                                                                  , 10.20122.11121.0          , 2021-02-27
+Microsoft.ZuneVideo                                                                  , 10.21021.10311.0          , 2021-03-04
+MicrosoftWindows.Client.CBS                                                          , 120.2212.551.0            , 2021-02-27
+MicrosoftWindows.UndockedDevKit                                                      , 10.0.19041.423            , 2021-02-28
+NcsiUwpApp                                                                           , 1000.19041.423.0          , 2021-02-28
+NVIDIACorp.NVIDIAControlPanel                                                        , 8.1.960.0                 , 2021-02-27
+RealtekSemiconductorCorp.RealtekAudioControl                                         , 1.20.238.0                , 2021-02-28
+SpotifyAB.SpotifyMusic                                                               , 1.153.608.0               , 2021-02-27
+Windows.CBSPreview                                                                   , 10.0.19041.423            , 2021-02-28
+windows.immersivecontrolpanel                                                        , 10.0.2.1000               , 2021-02-28
+Windows.PrintDialog                                                                  , 6.2.1.0                   , 2021-02-28
+
+---------------------
+Panel Info
+---------------------
+Generic PnP Monitor(BOE0957), 1920 X 1080, 48Hz, DPI 125%
+True Color mode:null
+
