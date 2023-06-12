@@ -1,0 +1,8 @@
+﻿To add migration use this 
+
+dotnet ef migrations add InitialCreate --project ../InvoiceCollectionSystem\Src\InvoiceCollectionSystem.Infrastructure --startup-project ../InvoiceCollectionSystem\Src\InvoiceCollectionSystem.API
+
+To update in database use this 
+
+dotnet ef database update --project ../InvoiceCollectionSystem\Src\InvoiceCollectionSystem.Infrastructure --startup-project ../InvoiceCollectionSystem\Src\InvoiceCollectionSystem.API
+
