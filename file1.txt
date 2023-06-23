@@ -1,5 +1,5 @@
 -------------------
-System Information
+System Information 
 ------------------
 Serial Number:                9S716R4121226ZKB000126 / K2011N0120302
 Product Name:                 GF63 Thin 10SCSR
